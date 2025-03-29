@@ -1,0 +1,75 @@
+[
+    {
+      "question": "Is your LAN cable properly connected?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Check if your LAN cable is plugged in properly."
+    },
+    {
+      "question": "Is your OS updated?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Update your OS to the latest version."
+    },
+    {
+      "question": "Are you getting an IP address from the router?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": "660512fb9f1b47a2c4f6d19b" },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Try restarting your router and check if DHCP is enabled."
+    },
+    {
+      "question": "Can you access the internet on other devices?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": "660512fc9f1b47a2c4f6d19c" },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "The issue may be with your device. Try resetting network settings."
+    },
+    {
+      "question": "Is your firewall blocking network access?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Check your firewall settings and allow necessary network traffic."
+    },
+    {
+      "question": "Is your network adapter enabled?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Enable the network adapter from your system settings."
+    },
+    {
+      "question": "Are you experiencing frequent disconnections?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Check for signal interference or faulty hardware."
+    },
+    {
+      "question": "Is your system running slow after an update?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Try rolling back to a previous version or updating drivers."
+    },
+    {
+      "question": "Do you see any error messages when trying to connect?",
+      "options": [
+        { "text": "Yes", "nextQuestionId": null },
+        { "text": "No", "nextQuestionId": null }
+      ],
+      "solution": "Note the error message and troubleshoot accordingly."
+    }
+  ]
+  
